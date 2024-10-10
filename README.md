@@ -12,7 +12,7 @@ Hi there 👋
 - 💬 Ask me about: Blockchain, Smart Contracts, Ethereum, or Solidity.
 - ⚡ Fun fact: I'm a big fan of decentralized systems and community-driven development.
 -->
----
+
 
 ## 📫 Connect with me:
 <p align="left">
