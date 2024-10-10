@@ -2,6 +2,8 @@ Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Arturo Marin</h1>
 <h3 align="center">I am currently studying for a Bachelor's Degree in Information Systems and passionate about backend development.</h3>
+
+---
 <!--
 ## 🚀 About Me:
 - 🔭 Currently working on: Blockchain-based academic certificate solutions.
