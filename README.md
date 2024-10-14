@@ -1,4 +1,3 @@
-Hi there 👋
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Arturo Marin</h1>
 <h3 align="center">I am currently studying for a Bachelor's Degree in Information Systems and passionate about backend development.</h3>
