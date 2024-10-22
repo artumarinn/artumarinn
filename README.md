@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Arturo Marin</h1>
-<h3 align="center">I am currently studying for a Bachelor's Degree in Information Systems and passionate about backend development.</h3>
+<h3 align="center">I am Arturo, a backend developer passionate about designing and optimizing robust systems that drive application performance and efficiency. I specialize in using technologies such as Python and artificial intelligence to create scalable solutions that align with business objectives while ensuring data security and protection. I am currently learning about cybersecurity, which allows me to implement protective measures and understand potential vulnerabilities in the systems I develop. I am committed to continuously improving my technical skills and adopting best practices in software architecture to deliver real value to the organizations I collaborate with.</h3>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
