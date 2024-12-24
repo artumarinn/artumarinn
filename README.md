@@ -6,7 +6,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - 🔭 Currently studying at: Champagnat University.
-- 🌱 I'm learning: advanced Python, Cybersecurity, Solidity, DeFi and Smart Contract Security.
+- 🌱 I'm learning: Advanced Python, Linux, Blockchain, Cloud and automations.
 - 👯 I am looking to collaborate on: Web3 and Python projects.
 - ⚡ Fun fact: I'm a big fan of new technologies and artificial intelligence.
 <br><br><br><br>
